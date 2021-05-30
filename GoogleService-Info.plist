@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>383603253378-55k0ve2ppmej7b96ejdvei4hm2k80vlc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.383603253378-55k0ve2ppmej7b96ejdvei4hm2k80vlc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>383603253378-7jl35u121fet8nr2o561ud6dr1abes0d.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAvCeQxtz6GOM2tWJ36SgY31CtKRrHVGxU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>383603253378</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.padcmyanmar.padc9.mmchores.PADC9-mmChores-iOS</string>
+	<key>PROJECT_ID</key>
+	<string>padc9-mmchores</string>
+	<key>STORAGE_BUCKET</key>
+	<string>padc9-mmchores.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:383603253378:ios:2f46b68bf9ed6bca86949b</string>
+	<key>DATABASE_URL</key>
+	<string>https://padc9-mmchores.firebaseio.com</string>
+</dict>
+</plist>
